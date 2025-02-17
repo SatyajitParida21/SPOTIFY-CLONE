@@ -16,3 +16,5 @@ Built with React, Vanilla CSS, and modern UI frameworks like BOOTSTRAP, this pro
 🚀 Future improvements could include backend integration for real-time music streaming and user authentication
 
 ![Image](https://github.com/user-attachments/assets/fdff894e-6a7f-4872-98c6-7b7900836ef0)
+
+![Image](https://github.com/user-attachments/assets/8ed01d33-cf85-4308-b2c0-7b2c6d6a2e48)
